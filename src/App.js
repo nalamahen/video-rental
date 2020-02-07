@@ -7,6 +7,7 @@ import NotFound from "./components/notFound";
 import NavBar from "./components/navBar";
 import "./App.css";
 
+
 class App extends Component {
   render() {
     return (
